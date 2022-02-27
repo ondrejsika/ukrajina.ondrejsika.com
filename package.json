@@ -1,0 +1,8 @@
+{
+  "name": "ukrajina.ondrejsika.com",
+  "version": "0.0.0",
+  "repository": "git@github.com:ondrejsika/ukrajina.ondrejsika.com.git",
+  "author": "Ondrej Sika <ondrej@ondrejsika.com>",
+  "license": "MIT",
+  "private": true
+}
