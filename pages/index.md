@@ -26,6 +26,10 @@
   - 1x Chomutov
 - Pokoje v hostelu v mensim meste
 
+#### Doprava
+
+Kojla se mi nabidl, ze pravidelne posila auta z Ukrajiny, ze muze kdyztak nekoho pribrat. Dejte vedet, kontakt predam.
+
 #### Prace
 
 - Praha Vinohrady - v kancelari, nutna znalost anglictiny
