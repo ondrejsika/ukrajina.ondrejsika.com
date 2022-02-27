@@ -43,6 +43,7 @@ Kojla se mi nabidl, ze pravidelne posila auta z Ukrajiny, ze muze kdyztak nekoho
 
 ## Externi odkazy
 
+- Stojíme za Ukrajinou - <https://www.stojimezaukrajinou.cz/>
 - Nabídka bezplatné lékařské péče - <http://lekariproukrajinu.cz/>
 - Prace / brigady v Praze - [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScMb7oG3BmomnWruUGhjkeO9y6D7Of8xEI_NDOuDUEG6zuBFg/viewform)
 - Pomoc Ukrajině/допомога україні/Help for Ukraine - [Google Tabulka](https://docs.google.com/spreadsheets/u/0/d/1DM88oiMTYQ7gtmzMmXz1WEdqHF76qyTkiwggLxXQL8M/htmlview?fbclid=IwAR3ycG36U6uslaZLwqqdgo6VZbmaHsnrTqrwiMWDWgr8PZyLVbKVaqDB6M8)
