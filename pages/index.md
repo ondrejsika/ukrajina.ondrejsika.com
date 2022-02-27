@@ -18,3 +18,7 @@
 ### Byty k dispozici
 
 Mam 4 byty k dispozici pro ukrajinske rodiny - praha, plzen, chomutov
+
+## Externi odkazy
+
+- Prace / brigady v Praze - <https://docs.google.com/forms/d/e/1FAIpQLScMb7oG3BmomnWruUGhjkeO9y6D7Of8xEI_NDOuDUEG6zuBFg/viewform>
