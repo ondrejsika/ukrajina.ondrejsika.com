@@ -1,3 +1,5 @@
+**!! Nebojte se pozadt o pomoc a sdilet !!**
+
 # Pomoc Ukrajine ❤️🇺🇦
 
 ## Kontakt
