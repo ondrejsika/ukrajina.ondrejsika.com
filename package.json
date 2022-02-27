@@ -4,5 +4,25 @@
   "repository": "git@github.com:ondrejsika/ukrajina.ondrejsika.com.git",
   "author": "Ondrej Sika <ondrej@ondrejsika.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "prettier-check": "prettier -l .",
+    "prettier-write": "prettier --write .",
+    "dev": "next",
+    "static": "next build && next export",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "next": "^12.1.0",
+    "prettier": "^2.5.1",
+    "raw-loader": "^4.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-markdown": "^8.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.9.0",
+    "eslint-config-next": "12.1.0"
+  }
 }
