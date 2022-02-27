@@ -12,12 +12,12 @@
 ## Nabizim
 
 - penize - hotovost pro prvni tydny
-- najem - zaridim a zaplatim najem pro ukrajinske rodiny na uteku
+- najem + jidlo - zaridim a zaplatim najem pro ukrajinske rodiny na uteku
 - auto (BMW X5) - cesta na hranice a zpet
 - ostatni pomoc - material, tlumocniky, ...
 - sehnat praci / brigadu
 
-#### Byty k dispozici
+#### Byty k dispozici (vcetne jidla)
 
 Mam 4 byty k dispozici pro ukrajinske rodiny - praha, plzen, chomutov
 
