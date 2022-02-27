@@ -19,9 +19,11 @@
 
 #### Byty k dispozici (vcetne jidla)
 
-Mam 4 byty k dispozici pro ukrajinske rodiny - praha, plzen, chomutov
-
-Pokoje v hostelu v mensim meste.
+- Mam 5 bytu k dispozici pro ukrajinske rodiny
+  - 2x Praha
+  - 2x Plzen
+  - 1x Chomutov
+- Pokoje v hostelu v mensim meste
 
 #### Prace
 
