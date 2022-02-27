@@ -17,11 +17,15 @@
 - ostatni pomoc - material, tlumocniky, ...
 - sehnat praci / brigadu
 
-### Byty k dispozici
+#### Byty k dispozici
 
 Mam 4 byty k dispozici pro ukrajinske rodiny - praha, plzen, chomutov
 
 Pokoje v hostelu v mensim meste.
+
+#### Prace
+
+- Praha Vinohrady - v kancelari, nutna znalost anglictiny
 
 ## Sdilejte
 
