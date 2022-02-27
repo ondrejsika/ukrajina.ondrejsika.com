@@ -21,6 +21,8 @@
 
 Mam 4 byty k dispozici pro ukrajinske rodiny - praha, plzen, chomutov
 
+Pokoje v hostelu v mensim meste.
+
 ## Sdilejte
 
 - [Twitter](https://twitter.com/ondrejsika/status/1497899052637298689)
