@@ -21,6 +21,13 @@
 
 Mam 4 byty k dispozici pro ukrajinske rodiny - praha, plzen, chomutov
 
+## Sdilejte
+
+- [Twitter](https://twitter.com/ondrejsika/status/1497899052637298689)
+- [Instagram](https://www.instagram.com/p/Caevt_FM_g-/)
+- [Facebook](https://www.facebook.com/ondrejsika/posts/4864123750349265)
+- [LinkedIn](https://www.linkedin.com/posts/ondrejsika_ukrajinaondrejsikacom-activity-6903672155855212544-wUGH)
+
 ## Externi odkazy
 
 - Prace / brigady v Praze - <https://docs.google.com/forms/d/e/1FAIpQLScMb7oG3BmomnWruUGhjkeO9y6D7Of8xEI_NDOuDUEG6zuBFg/viewform>
