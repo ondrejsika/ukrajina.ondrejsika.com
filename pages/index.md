@@ -20,10 +20,6 @@
 #### Byty k dispozici (vcetne jidla)
 
 - 16 pokoju, 54 luzek (Neratovice) - [popis objektu a kontakt](https://docs.google.com/spreadsheets/u/0/d/1QL2HTJeRw3uVwwpxyYb_TY7Dq6vJUJkwbtbengKtTHQ/htmlview)
-- Mam 5 bytu k dispozici pro ukrajinske rodiny
-  - 2x Praha
-  - 2x Plzen
-  - 1x Chomutov
 - Pokoje v hostelu v mensim meste
 
 #### Doprava
