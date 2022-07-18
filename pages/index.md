@@ -6,7 +6,7 @@
 
 - [+420 773 452 376](tel:+420773452376) (Pokud to polozim, vojete znovu, je to tichy rezim na iPhone)
 - [t.me/ondrejsika](https://t.me/ondrejsika) (Telegram)
-- <ukrajina@ondrejsika.com>
+- <ondrej@ondrejsika.com>
 - [ukrajina.ondrejsika.com](https://ukrajina.ondrejsika.com) (tato stranka)
 
 ## Nabizim
